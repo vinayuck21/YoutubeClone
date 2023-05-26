@@ -2,6 +2,8 @@
 # YouTube Clone
 
 This is a simplified "YouTube Clone" web application built using React.js. It allows users to view a list of video thumbnails, play videos, and see basic information about each video.
+## Website Link
+https://64710366d3225618514737ed--genuine-vacherin-4e63f7.netlify.app/
 
 ## Installation
 
